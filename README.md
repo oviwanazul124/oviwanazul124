@@ -2,12 +2,12 @@
 
 ---
 
-I am a developer I move looking for both data analysis and video game development. 👍
+I am a developer I am looking for data analysis and video game development. 👍
 
-- 🔭 I’m currently working on a password randmizer with personalized UI
+- 🔭 I’m currently working on a password randomizer with personalized UI
 - 🌱 I’m currently learning HTML and CSS
 
-### Languanges 🐍
+### Languages 🐍
 
 ---
 
