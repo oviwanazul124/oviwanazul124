@@ -4,8 +4,8 @@
 
 I am a developer I am looking for data analysis and video game development. 👍
 
-- 🔭 I’m currently working on a password randomizer with personalized UI
-- 🌱 I’m currently learning HTML and CSS
+- 🔭 I’m currently working on a new game for PC
+- 🌱 I’m currently learning C# and Html
 
 ### Languages 🐍
 
@@ -19,7 +19,7 @@ I have learned:
 
 ---
 
-[![Oviwanazul124's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviwanazul124)](https://github.com/anuraghazra/github-readme-stats)
+![Oviwanazul124's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviwanazul124&show_icons=true&theme=radical)
 
 ### Let's connect 🖥️
 
