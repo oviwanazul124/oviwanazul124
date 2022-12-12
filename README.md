@@ -25,7 +25,7 @@ I have learned:
 
 ---
 <a href="https://twitter.com/oviwanazul_dev">
-  <img align="left" alt="Oviwanazul Twitter" width="220px" src="https://img.shields.io/twitter/follow/oviwanazul_dev?style=social" />
+  <img align="left" alt="Oviwanazul Twitter" width="220px" src="https://img.shields.io/twitter/follow/oviwanazuldev?style=social" />
 </a>
 
 
