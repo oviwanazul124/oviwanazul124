@@ -5,7 +5,7 @@
 I am a developer I am looking for data analysis and video game development. 👍
 
 - 🔭 I’m currently working on a new game for PC
-- 🌱 I’m currently learning C# and Html
+- 🌱 I’m currently learning to mod games
 
 ### Languages 🐍
 
@@ -14,6 +14,8 @@ I am a developer I am looking for data analysis and video game development. 👍
 I have learned:
 
   - Python 
+  - C#
+  - Java
 
 ### Stats 📄
 
