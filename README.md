@@ -15,7 +15,6 @@ I have learned:
 
   - Python 
   - C#
-  - Java
 
 ### Stats 📄
 
