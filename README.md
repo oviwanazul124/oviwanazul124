@@ -22,6 +22,15 @@ I have learned:
 
 ![Oviwanazul124's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviwanazul124&show_icons=true&theme=radical)
 
+
+### Libraries 📚
+
+---
+
+I known:
+  - Discord.py
+  - Colorama
+
 ### Let's connect 🖥️
 
 ---
