@@ -2,7 +2,7 @@
 
 ---
 
-. Soy Javier, llevo dos canales de YouTube uno dedicado al gaming y otro a la programación👍
+Soy Javier, llevo dos canales de YouTube uno dedicado al gaming y otro a la programación 😀
 
 - 🔭 Actualmente estoy trabajando en realizar videos informativos para quienes entrar a este medio
 
@@ -16,7 +16,6 @@ Se los siguientes lenguajes:
 
   - Python
   - C# ( 3 años de experiencia en Unity, actualmente usando godot)
-  
 
 ### Estadísticas 📄
 
@@ -30,7 +29,7 @@ Se los siguientes lenguajes:
 ---
 
 Actualmente conozco:
-  - Discord.py
+  - Discord.py (Experiencia con Bots básicos)
   - Colorama
 
 
