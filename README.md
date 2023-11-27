@@ -1,41 +1,44 @@
-### Hi there 👋
+### Hola y ¡Bienvenido! 👋
 
 ---
 
-I am a developer I am looking for data analysis and video game development. 👍
+. Soy Javier, llevo dos canales de YouTube uno dedicado al gaming y otro a la programación👍
 
-- 🔭 I’m currently working on a new game for PC
-- 🌱 I’m currently learning to mod games
+- 🔭 Actualmente estoy trabajando en realizar videos informativos para quienes entrar a este medio
+
+- 🌱 Desarrollando mi primer juego comercial
 
 ### Languages 🐍
 
 ---
 
-I have learned:
+Se los siguientes lenguajes:
 
-  - Python 
-  - C#
+  - Python
+  - C# ( 3 años de experiencia en Unity, actualmente usando godot)
+  
 
-### Stats 📄
+### Estadísticas 📄
 
 ---
 
 ![Oviwanazul124's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviwanazul124&show_icons=true&theme=radical)
 
 
-### Libraries 📚
+### Librerias 📚
 
 ---
 
-I known:
+Actualmente conozco:
   - Discord.py
   - Colorama
 
-### Let's connect 🖥️
+
+### Más información 🖥️
 
 ---
-<a href="https://twitter.com/oviwanazul_dev">
-  <img align="left" alt="Oviwanazul Twitter" width="220px" src="https://img.shields.io/twitter/follow/oviwanazuldev?style=social" />
+<a href="https://twitter.com/oviwanazul">
+  <img align="left" alt="Oviwanazul Twitter" width="220px" src="https://img.shields.io/twitter/follow/oviwanazul?style=social" />
 </a>
 
 
