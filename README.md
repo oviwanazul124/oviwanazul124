@@ -16,6 +16,8 @@ Se los siguientes lenguajes:
 
   - Python
   - C# ( 3 años de experiencia en Unity, actualmente usando godot)
+  - HTML (Paginas basicas)
+  - GDScript
 
 ### Estadísticas 📄
 
@@ -29,8 +31,8 @@ Se los siguientes lenguajes:
 ---
 
 Actualmente conozco:
-  - Discord.py (Experiencia con Bots básicos)
-  - Colorama
+  - Discord.py (Experiencia con Bots complejos)
+  - MariaDB (Version de Python)
 
 
 ### Más información 🖥️
