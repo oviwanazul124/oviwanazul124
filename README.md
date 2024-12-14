@@ -2,11 +2,7 @@
 
 ---
 
-Soy Javier, llevo dos canales de YouTube uno dedicado al gaming y otro a la programación 😀
-
-- 🔭 Actualmente estoy trabajando en realizar videos informativos para quienes entrar a este medio
-
-- 🌱 Desarrollando mi primer juego comercial
+Soy Javier, llevo un blog dedicado a la programación y desarrollo de videojuegos 😀
 
 ### Languages 🐍
 
@@ -15,8 +11,10 @@ Soy Javier, llevo dos canales de YouTube uno dedicado al gaming y otro a la prog
 Se los siguientes lenguajes:
 
   - Python
-  - C# ( 3 años de experiencia en Unity, actualmente usando godot)
+  - C# ( 3 años de experiencia en Unity)
+  - C
   - HTML (Paginas basicas)
+  - CSS
   - GDScript
 
 ### Estadísticas 📄
@@ -24,15 +22,6 @@ Se los siguientes lenguajes:
 ---
 
 ![Oviwanazul124's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviwanazul124&show_icons=true&theme=radical)
-
-
-### Librerias 📚
-
----
-
-Actualmente conozco:
-  - Discord.py (Experiencia con Bots complejos)
-  - MariaDB (Version de Python)
 
 
 ### Más información 🖥️
